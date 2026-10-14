@@ -30,9 +30,9 @@ async function loadProjects() {
     if (!response.ok) {
       throw new Error("HTTP status " + response.status);
     }
-    const projects = await response.json();   // parse the JSON
+    const projects = await response.json();   
 
-    projectsGrid.innerHTML = "";               // remove "Loading..." text
+    projectsGrid.innerHTML = "";               
     projects.forEach(function (project) {
       projectsGrid.appendChild(createProjectCard(project));
     });
@@ -186,7 +186,7 @@ form.addEventListener("submit", function (event) {
   }
 
   if (!valid) {
-    return;                               // stop here if something is wrong
+    return;                            
   }
 
   // Static site: the message is NOT really sent, we only simulate success
