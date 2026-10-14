@@ -1,10 +1,3 @@
-/* =========================================================
-   Student Portfolio - script.js
-   1. Mobile menu   2. Projects from JSON   3. GitHub API
-   4. Contact form validation   5. Back to top button
-   ========================================================= */
-
-// >>> CHANGE THIS to your real GitHub username <<<
 const GITHUB_USERNAME = "MacMac1000";
 
 
