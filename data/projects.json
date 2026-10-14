@@ -4,7 +4,7 @@
     "description": "A simple application for managing student records: add, view, update and delete entries stored in a database. (Replace with your own description.)",
     "technologies": ["Java", "MySQL"],
     "role": "Developer",
-    "screenshot": "images/project1.jpg",
+    "screenshot": "images/project1.png",
     "link": "https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-1"
   },
   {
