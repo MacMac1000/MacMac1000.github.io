@@ -1,8 +1,8 @@
 [
   {
     "title": "Student Registration System",
-    "description": "A simple application for managing student records: add, view, update and delete entries stored in a database. (Replace with your own description.)",
-    "technologies": ["Java", "MySQL"],
+    "description": "A simple Login Page we created in our HTML subject,
+    "technologies": ["Java", "VS Code"],
     "role": "Developer",
     "screenshot": "images/project1.png",
     "link": "https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-1"
