@@ -9,10 +9,10 @@
   },
   {
     "title": "Personal Website",
-    "description": "A responsive website built with plain HTML, CSS and JavaScript. (Replace with your own description.)",
+    "description": "My personal information",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "role": "Designer and developer",
-    "screenshot": "images/project2.jpg",
+    "screenshot": "images/project2.png",
     "link": "https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-2"
   }
 ]
