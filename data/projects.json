@@ -18,7 +18,7 @@
   {
     "title": "Vocabulary App",
     "description": "Simple Vocabulary Builder for review",
-    "technologies": ["Java", "VS Code"],
+    "technologies": ["Css", "Html", "Java"],
     "role": "Developer",
     "screenshot": "images/project3.png",
     "link": "https://macmac1000.github.io/Vocabulary/"
